@@ -5,4 +5,4 @@ This repository stores my [Advent Of Code](http:http://adventofcode.com/2019/) s
 
 ## Days Completed
 
-* Day 1: 
+* Day 1: The Tyranny of the Rocket Equation
