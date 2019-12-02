@@ -8,3 +8,4 @@ As there's also a [poetry challenge](https://old.reddit.com/r/adventofcode/wiki/
 ## Days Completed
 
 * Day 1: The Tyranny of the Rocket Equation
+* Day 2: 1202 Program Alarm
