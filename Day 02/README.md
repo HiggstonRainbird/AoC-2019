@@ -1,7 +1,7 @@
 # Mathematica Advent of Code
 # 2019, Day 2
 
-## Poem: A Sonnet of Magic Smoke
+## Poem: A Sonnet of Smoke
 
 	If you wish to care for an old machine,
 	No matter if PC, Red Hat, or Mac,
