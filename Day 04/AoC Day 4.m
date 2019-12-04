@@ -17,7 +17,7 @@
 
 
 (* ::Input:: *)
-(*Length@Select[input,Sort[IntegerDigits[#]]===IntegerDigits[#]\[And]!DuplicateFreeQ[IntegerDigits[#]]&]*)
+(*Length@Select[IntegerDigits/@input,Sort[#]===#\[And]!DuplicateFreeQ[#]&]*)
 
 
 (* ::Subsubsection:: *)
@@ -25,4 +25,4 @@
 
 
 (* ::Input:: *)
-(*Length@Select[input,Sort[IntegerDigits[#]]===IntegerDigits[#]\[And]MemberQ[Tally[IntegerDigits[#]][[;;,2]],2]&]*)
+(*Length@Select[IntegerDigits/@input,Sort[#]===#\[And]MemberQ[Tally[#][[;;,2]],2]&]*)
