@@ -1,15 +1,11 @@
 (* ::Package:: *)
 
 (* ::Text:: *)
-(*Written December 2nd, 2019.*)
+(*Written December 3rd, 2019.*)
 
 
 (* ::Subsubsection:: *)
 (*Import*)
-
-
-(* ::Input:: *)
-(*input=ToExpression/@StringSplit[Import[FileNameJoin[{NotebookDirectory[],"Day2Input.txt"}],"Table"][[1,1]],","];*)
 
 
 (* ::Input:: *)
