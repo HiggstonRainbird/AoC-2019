@@ -12,3 +12,4 @@ As there's also a [poetry challenge](https://old.reddit.com/r/adventofcode/wiki/
 * Day 3: Crossed Wires
 * Day 4: Secure Container
 * **Day 5: Sunny with a Chance of Asteroids** (First instance of the clean-up Intcode interpreter)
+* Day 6: Universal Orbit Map
