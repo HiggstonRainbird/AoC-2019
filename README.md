@@ -15,3 +15,4 @@ As there's also a [poetry challenge](https://old.reddit.com/r/adventofcode/wiki/
 * Day 6: Universal Orbit Map
 * Day 7: Amplification Circuit
 * Day 8: Space Image Format
+* Day 9: Sensor Boost
