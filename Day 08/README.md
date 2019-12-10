@@ -15,7 +15,7 @@
 	
 	So what befell those brave explorers there
 	Sojourning all alone, so sure to die?
-	Where once they trekked Martian dust and air
+	Where once they trekked through Martian dust and air
 	They are entombed beneath the Martian sky.
 	
 	And for those valiant pathfinders who fell,
