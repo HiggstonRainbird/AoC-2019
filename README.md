@@ -16,3 +16,5 @@ As there's also a [poetry challenge](https://old.reddit.com/r/adventofcode/wiki/
 * Day 7: Amplification Circuit
 * Day 8: Space Image Format
 * **Day 9: Sensor Boost** (A full write-up of the Intcode opcode list)
+* Day 10: Monitoring Station
+* Day 11: Space Police
