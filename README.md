@@ -18,3 +18,4 @@ As there's also a [poetry challenge](https://old.reddit.com/r/adventofcode/wiki/
 * **Day 9: Sensor Boost** (A full write-up of the Intcode opcode list)
 * Day 10: Monitoring Station
 * Day 11: Space Police
+* Day 12: The N-Body Problem
