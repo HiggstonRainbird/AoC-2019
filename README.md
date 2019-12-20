@@ -23,3 +23,6 @@ As there's also a [poetry challenge](https://old.reddit.com/r/adventofcode/wiki/
 * Day 14: Space Stoichiometry
 * **Day 15: Oxygen System** (A working keyboard interface for Intcode)
 * Day 16: Flawed Frequency Transmission
+* Day 17: Set and Forget
+* **Day 18: Many-Worlds Interpretation** (Not solved yet)
+* Day 19: Tractor Beam
