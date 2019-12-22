@@ -27,3 +27,5 @@ As there's also a [poetry challenge](https://old.reddit.com/r/adventofcode/wiki/
 * Day 18: Many-Worlds Interpretation
 * Day 19: Tractor Beam
 * Day 20: Donut Maze
+* **Day 21: Springdroid Adventure** (Only part 1) 
+* **Day 22: Slam Shuffle** (A much bigger exponent base than anybody else is using)
