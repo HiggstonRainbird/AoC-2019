@@ -11,7 +11,7 @@
 4) Why Bother?  'Cause I'm curious and bored.
 5) I Can't resist distraction.  Never could.
 6) Resistance?  Futile, far as I'm concerned;
-7) Never met a puzzle and said "I'm good".
+7) Never Met a puzzle and said "I'm good".
 
 8) Lost?  Perhaps.  This maze is rather large.
 9) For Dungeons, Pluto's sure do take the cake.

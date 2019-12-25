@@ -31,3 +31,4 @@ As there's also a [poetry challenge](https://old.reddit.com/r/adventofcode/wiki/
 * **Day 22: Slam Shuffle** (A much bigger exponent base than anybody else is using)
 * Day 23: Category Six
 * Day 24: Planet of Discord
+* Day 25: Cryostasis
