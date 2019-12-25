@@ -37,8 +37,8 @@ My code for today is unusual - it's an optimized random search on an emulator of
       
 ## Poem: Watch Your Step
 
-A disaster, then, briefly, a lull,
-So I sent out a springdroid to mull.
-But when I tried to pull
-All its springscript was full,
-So it fell through a hole in the hull.
+A disaster, then, briefly, a lull,  
+So I sent out a springdroid to mull.  
+But when I tried to pull  
+All its springscript was full,  
+So it fell through a hole in the hull.  
